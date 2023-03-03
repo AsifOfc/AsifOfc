@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+
+
+
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://git.io/J0hKr">
@@ -18,7 +23,7 @@ Here are some ideas to get you started
 -->
 
 ## 😈 currently studying Java, Python 
-## 🔰 Official WhatsApp number +211 929 716 830
+## 🔰 Official WhatsApp number  +94760237531
 
 ## <!-- Typing SVG -->
 <p align="center">
