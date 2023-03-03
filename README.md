@@ -19,7 +19,11 @@
 - 🌱 I’m currently learning **New staff** 
 
 - 📫 Contact me through => **muriukidalvin7@gmail.com** 
+</a>
 
+   <a href= 'https://www.mongodb.com'>
+
+<img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
 
 
 
@@ -34,6 +38,10 @@
 </p>
 <img align="center" height="auto" src="https://www.infrastructurenews.co.nz/wp-content/uploads/2021/10/Ciphire-Technology-Explained-1024x574.jpeg"/>
 </p>
+ <a
+    href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+
+ 
 ### Hi there 👋
 
 <!--
