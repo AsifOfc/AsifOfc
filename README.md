@@ -1,4 +1,4 @@
-<h1 align="center">Hello There👋 AM 😈 𝐋๏𝐑ᕲ༆•ɬ์์์์์ััััััััััุุุุุุุุุุุุุุ*•ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ*•‌D⃟𝘼𝔏𝑉𝐼𝑁✿‌.͍͍͍͍͍ </h1>
+<h1 align="center">Hello There👋 AM 😈 Asif Khan </h1>
 
 <h3 align="center">I'm not lonely since loneliness is always with me 😔</h3>
 
@@ -8,7 +8,7 @@
   <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
 <img align="middle" alt="pic" height="256px" src="https://64.media.tumblr.com/1925d217cae660763f9af6956ee70cac/tumblr_o0nxgebXGt1ub9qlao1_500.gifv" />
 
-![Profile views](https://gpvc.arturio.dev/lorddalvin)  ![Last Modified](https://img.shields.io/github/last-commit/aleckykichwambaya/aleckykichwambaya7?style=flat)
+![Profile views](https://gpvc.arturio.dev/lorddalvin)  ![Last Modified](https://img.shields.io/github/last-commit/AsifOfc/AsifOfc?style=flat)
 
 **Learning stuffs while vibing to Queen Anya coming soon**
 
@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **New staff** 
 
-- 📫 Contact me through => **muriukidalvin7@gmail.com** 
+- 📫 Contact me through => **muhammadasifofc@gmail.com** 
 </a>
 
    <a href= 'https://www.mongodb.com'>
@@ -51,13 +51,13 @@
 ### Hi there 👋
 
 <!--
-**aleckykichwambaya7/aleckykichwambaya7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AsifOfc/AsifOfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started
 -->
 
 ## 😈 currently studying Java, Python 
-## 🔰 Official WhatsApp number  +94760237531
+## 🔰 Official WhatsApp number  +923474187615
 
 ## <!-- Typing SVG -->
 <p align="center">
