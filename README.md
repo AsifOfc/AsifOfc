@@ -10,7 +10,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/lorddalvin)  ![Last Modified](https://img.shields.io/github/last-commit/AsifOfc/AsifOfc?style=flat)
 
-**Learning stuffs while vibing to Queen Anya coming soon**
+**coming soon**
 
 - 📖 Primary Languages => ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
